@@ -1,0 +1,1 @@
+To test Cohesive_Cam_Clay you can use github.com/MeritaTafili/REV-wIncDr Incremental Driver. If you want to use somewhere else pay attention to the subroutine written for tensor algebra and not included yet in this subourinte UMAT.
